@@ -1,0 +1,22 @@
+body{
+	color: white;
+	background-color:black;
+	font-size :90x; 
+}
+
+nav{
+	text-align: center;
+	margin: 40px;
+	margin-top: 80px;
+}
+
+h1{
+	color: blue;
+	font-size: 90x;
+	margin: 0 8px;
+}
+
+h2{
+	color:orange;
+	font-size: 90x;
+}
